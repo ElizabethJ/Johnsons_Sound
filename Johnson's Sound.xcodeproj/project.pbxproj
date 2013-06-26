@@ -13,9 +13,6 @@
 		B03C18051766915E001B3596 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B03C18031766915E001B3596 /* InfoPlist.strings */; };
 		B03C18071766915E001B3596 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B03C18061766915E001B3596 /* main.m */; };
 		B03C180B1766915E001B3596 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B03C180A1766915E001B3596 /* AppDelegate.m */; };
-		B03C180D1766915E001B3596 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C180C1766915E001B3596 /* Default.png */; };
-		B03C180F1766915E001B3596 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C180E1766915E001B3596 /* Default@2x.png */; };
-		B03C18111766915E001B3596 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C18101766915E001B3596 /* Default-568h@2x.png */; };
 		B03C18141766915E001B3596 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B03C18121766915E001B3596 /* MainStoryboard_iPhone.storyboard */; };
 		B03C18171766915E001B3596 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B03C18151766915E001B3596 /* MainStoryboard_iPad.storyboard */; };
 		B03C181A1766915E001B3596 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B03C18191766915E001B3596 /* FirstViewController.m */; };
@@ -29,6 +26,20 @@
 		B03C182F1766915E001B3596 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B03C17FC1766915E001B3596 /* Foundation.framework */; };
 		B03C18371766915E001B3596 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B03C18351766915E001B3596 /* InfoPlist.strings */; };
 		B03C183A1766915E001B3596 /* Johnson_s_SoundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B03C18391766915E001B3596 /* Johnson_s_SoundTests.m */; };
+		B03C184417669698001B3596 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C184317669698001B3596 /* Default.png */; };
+		B03C1846176696AB001B3596 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C1845176696AB001B3596 /* Default@2x.png */; };
+		B03C1848176696BA001B3596 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C1847176696BA001B3596 /* Default-568h@2x.png */; };
+		B03C185017669958001B3596 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C184F17669958001B3596 /* icon.png */; };
+		B03C18521766996A001B3596 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B03C18511766996A001B3596 /* icon.png */; };
+		B03C185D1766A133001B3596 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B03C185C1766A133001B3596 /* AudioToolbox.framework */; };
+		B0E8E4EA1767E87000D6C7FF /* trees.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4E91767E87000D6C7FF /* trees.png */; };
+		B0E8E4EC1767E88000D6C7FF /* tools.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4EB1767E88000D6C7FF /* tools.png */; };
+		B0E8E4EE1767E88B00D6C7FF /* nature.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4ED1767E88B00D6C7FF /* nature.png */; };
+		B0E8E4F01767E89500D6C7FF /* cliff.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4EF1767E89500D6C7FF /* cliff.png */; };
+		B0E8E4F61767E95300D6C7FF /* cliff.wav in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4F21767E95300D6C7FF /* cliff.wav */; };
+		B0E8E4F71767E95300D6C7FF /* nature.wav in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4F31767E95300D6C7FF /* nature.wav */; };
+		B0E8E4F81767E95300D6C7FF /* tools.wav in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4F41767E95300D6C7FF /* tools.wav */; };
+		B0E8E4F91767E95300D6C7FF /* trees.wav in Resources */ = {isa = PBXBuildFile; fileRef = B0E8E4F51767E95300D6C7FF /* trees.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,9 +63,6 @@
 		B03C18081766915E001B3596 /* Johnson's Sound-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Johnson's Sound-Prefix.pch"; sourceTree = "<group>"; };
 		B03C18091766915E001B3596 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B03C180A1766915E001B3596 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B03C180C1766915E001B3596 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		B03C180E1766915E001B3596 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		B03C18101766915E001B3596 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		B03C18131766915E001B3596 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		B03C18161766915E001B3596 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		B03C18181766915E001B3596 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
@@ -71,6 +79,20 @@
 		B03C18361766915E001B3596 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B03C18381766915E001B3596 /* Johnson_s_SoundTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Johnson_s_SoundTests.h; sourceTree = "<group>"; };
 		B03C18391766915E001B3596 /* Johnson_s_SoundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Johnson_s_SoundTests.m; sourceTree = "<group>"; };
+		B03C184317669698001B3596 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		B03C1845176696AB001B3596 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		B03C1847176696BA001B3596 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B03C184F17669958001B3596 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		B03C18511766996A001B3596 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		B03C185C1766A133001B3596 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		B0E8E4E91767E87000D6C7FF /* trees.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trees.png; path = ../../../Pictures/trees.png; sourceTree = "<group>"; };
+		B0E8E4EB1767E88000D6C7FF /* tools.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tools.png; path = ../../../Pictures/tools.png; sourceTree = "<group>"; };
+		B0E8E4ED1767E88B00D6C7FF /* nature.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nature.png; path = ../../../Pictures/nature.png; sourceTree = "<group>"; };
+		B0E8E4EF1767E89500D6C7FF /* cliff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cliff.png; path = ../../../Pictures/cliff.png; sourceTree = "<group>"; };
+		B0E8E4F21767E95300D6C7FF /* cliff.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cliff.wav; sourceTree = "<group>"; };
+		B0E8E4F31767E95300D6C7FF /* nature.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = nature.wav; sourceTree = "<group>"; };
+		B0E8E4F41767E95300D6C7FF /* tools.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = tools.wav; sourceTree = "<group>"; };
+		B0E8E4F51767E95300D6C7FF /* trees.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = trees.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B03C185D1766A133001B3596 /* AudioToolbox.framework in Frameworks */,
 				B03C17FB1766915E001B3596 /* UIKit.framework in Frameworks */,
 				B03C17FD1766915E001B3596 /* Foundation.framework in Frameworks */,
 				B03C17FF1766915E001B3596 /* CoreGraphics.framework in Frameworks */,
@@ -100,6 +123,8 @@
 		B03C17EE1766915E001B3596 = {
 			isa = PBXGroup;
 			children = (
+				B03C185C1766A133001B3596 /* AudioToolbox.framework */,
+				B03C18511766996A001B3596 /* icon.png */,
 				B03C18001766915E001B3596 /* Johnson's Sound */,
 				B03C18321766915E001B3596 /* Johnson's SoundTests */,
 				B03C17F91766915E001B3596 /* Frameworks */,
@@ -150,13 +175,19 @@
 		B03C18011766915E001B3596 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B0E8E4F11767E95300D6C7FF /* App Sounds */,
+				B0E8E4EF1767E89500D6C7FF /* cliff.png */,
+				B0E8E4ED1767E88B00D6C7FF /* nature.png */,
+				B0E8E4EB1767E88000D6C7FF /* tools.png */,
+				B0E8E4E91767E87000D6C7FF /* trees.png */,
+				B03C184F17669958001B3596 /* icon.png */,
+				B03C1847176696BA001B3596 /* Default-568h@2x.png */,
+				B03C1845176696AB001B3596 /* Default@2x.png */,
+				B03C184317669698001B3596 /* Default.png */,
 				B03C18021766915E001B3596 /* Johnson's Sound-Info.plist */,
 				B03C18031766915E001B3596 /* InfoPlist.strings */,
 				B03C18061766915E001B3596 /* main.m */,
 				B03C18081766915E001B3596 /* Johnson's Sound-Prefix.pch */,
-				B03C180C1766915E001B3596 /* Default.png */,
-				B03C180E1766915E001B3596 /* Default@2x.png */,
-				B03C18101766915E001B3596 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -178,6 +209,18 @@
 				B03C18351766915E001B3596 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B0E8E4F11767E95300D6C7FF /* App Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				B0E8E4F21767E95300D6C7FF /* cliff.wav */,
+				B0E8E4F31767E95300D6C7FF /* nature.wav */,
+				B0E8E4F41767E95300D6C7FF /* tools.wav */,
+				B0E8E4F51767E95300D6C7FF /* trees.wav */,
+			);
+			name = "App Sounds";
+			path = "../../../Music/App Sounds";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -252,15 +295,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				B03C18051766915E001B3596 /* InfoPlist.strings in Resources */,
-				B03C180D1766915E001B3596 /* Default.png in Resources */,
-				B03C180F1766915E001B3596 /* Default@2x.png in Resources */,
-				B03C18111766915E001B3596 /* Default-568h@2x.png in Resources */,
 				B03C18141766915E001B3596 /* MainStoryboard_iPhone.storyboard in Resources */,
 				B03C18171766915E001B3596 /* MainStoryboard_iPad.storyboard in Resources */,
 				B03C181C1766915E001B3596 /* first.png in Resources */,
 				B03C181E1766915E001B3596 /* first@2x.png in Resources */,
 				B03C18231766915E001B3596 /* second.png in Resources */,
 				B03C18251766915E001B3596 /* second@2x.png in Resources */,
+				B03C184417669698001B3596 /* Default.png in Resources */,
+				B03C1846176696AB001B3596 /* Default@2x.png in Resources */,
+				B03C1848176696BA001B3596 /* Default-568h@2x.png in Resources */,
+				B03C185017669958001B3596 /* icon.png in Resources */,
+				B03C18521766996A001B3596 /* icon.png in Resources */,
+				B0E8E4EA1767E87000D6C7FF /* trees.png in Resources */,
+				B0E8E4EC1767E88000D6C7FF /* tools.png in Resources */,
+				B0E8E4EE1767E88B00D6C7FF /* nature.png in Resources */,
+				B0E8E4F01767E89500D6C7FF /* cliff.png in Resources */,
+				B0E8E4F61767E95300D6C7FF /* cliff.wav in Resources */,
+				B0E8E4F71767E95300D6C7FF /* nature.wav in Resources */,
+				B0E8E4F81767E95300D6C7FF /* tools.wav in Resources */,
+				B0E8E4F91767E95300D6C7FF /* trees.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -489,6 +542,7 @@
 				B03C183F1766915E001B3596 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B03C18401766915E001B3596 /* Build configuration list for PBXNativeTarget "Johnson's SoundTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +551,7 @@
 				B03C18421766915E001B3596 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
